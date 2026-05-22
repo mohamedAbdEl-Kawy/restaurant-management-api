@@ -820,19 +820,6 @@ For support, please open an issue on the GitHub repository or contact the develo
 
 ---
 
-## 🎯 Roadmap
-
-- [ ] Authentication & Authorization (JWT)
-- [ ] Restaurant ratings and reviews
-- [ ] Advanced search filters
-- [ ] Push notifications
-- [ ] Admin dashboard
-- [ ] Analytics and reporting
-- [ ] Docker containerization
-- [ ] CI/CD pipeline
-
----
-
 ## 🙏 Acknowledgments
 
 - [NestJS Documentation](https://docs.nestjs.com/)
